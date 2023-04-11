@@ -1,0 +1,97 @@
+/* Global styles */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;500;700&display=swap');
+
+body {
+    background-color:burlywood;
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 10px;
+  }
+  
+  header {
+    background-color: darkgreen;
+    color: lightgreen;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 10px;
+  }
+  
+  nav ul {
+    margin: 10px;
+    padding: 0px;
+  }
+  
+  nav li {
+    display: flexbox;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: greenyellow;
+    text-decoration: none;
+  }
+  
+  main {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    color: red;
+    font-size: 28px;
+    margin: 0 0 20px;
+  }
+  
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  li {
+    display: inline-block;
+    width: 30%;
+    margin-right: 2%;
+    vertical-align: top;
+    box-sizing: border-box;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin: 0;
+  }
+  
+  p {
+    margin: 0;
+    color: rgb(2, 1, 61);
+  }
+  
+  a {
+    display: block;
+    margin-top: 10px;
+    color: red;
+  }
+  span{
+    color:rgb(2, 1, 61) ;
+  }
+  img{
+    margin-left: 400px;
+    width: 500px;
+    height: 400px;
+  }
